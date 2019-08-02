@@ -57,8 +57,15 @@ namespace VendorTracker.Controllers
     {
       return View();
     }
+
     [HttpGet("/vendors/nowhereplus")]
     public ActionResult NowherePlus()
+    {
+      return View();
+    }
+
+    [HttpGet("/vendors/cake")]
+    public ActionResult Cake()
     {
       return View();
     }

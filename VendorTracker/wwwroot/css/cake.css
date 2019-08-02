@@ -1,0 +1,13 @@
+#portal {
+  color: white;
+}
+
+body {
+  background-image: url("../img/cake.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  min-height: 100%;
+  background-position: center;
+  overflow: hidden;
+}
