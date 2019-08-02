@@ -1,6 +1,6 @@
 # Vendor Order Tracker
 
-#### _Vendor Order Tracker, 8/2/2019_
+#### _Vendor Order Tracker Application, 8/2/2019_
 
 #### By **Holden Clark**
 
