@@ -25,3 +25,7 @@ div#footer {
 #nowhere {
   font-size: 5px;
 }
+
+.col {
+  text-align: center !important;
+}
